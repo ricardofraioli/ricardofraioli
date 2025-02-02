@@ -7,7 +7,7 @@ Olá! Sou formado em Física, Análise e Desenvolvimento de Sistemas, e Engenhar
 - SQL
 - UiPath, Automation Anywhere
 - Docker, Git, Azure
-- Service Now
+- ServiceNow
 
 
 ## ⚙️ O que estou fazendo?
@@ -18,12 +18,6 @@ Automação de processos repetitivos utilizando Python e RPA para aumentar a efi
 
 ### Sistema de Monitoramento IoT
 Desenvolvimento de um sistema de monitoramento em tempo real utilizando sensores IoT e análise de dados.
-
-
-
-### Aplicação Web de Gestão de Tarefas
-Aplicação web para gestão de tarefas e projetos, desenvolvida com React e Node.js.
-
 
 ###
 
